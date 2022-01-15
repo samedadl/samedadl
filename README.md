@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Samed</h1>
 <h3 align="center">GIS Developer</h3>
 
